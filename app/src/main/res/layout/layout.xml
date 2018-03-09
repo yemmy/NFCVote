@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.florayem.florayemnfc.MainActivity">
+    <item
+        android:id="@+id/quitmenu"
+        android:title="Quit"
+        android:icon="@android:drawable/ic_lock_power_off"
+        app:showAsAction="withText|ifRoom"/>
+</menu>
